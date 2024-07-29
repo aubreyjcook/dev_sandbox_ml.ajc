@@ -16,6 +16,7 @@ This repo is a sandbox environment for developing implementations of Machine Lea
 
 ## Initial Suggested Directory Structure Example
 
+```plaintext
 dev_sandbox-ml.ajc/
 │
 ├── README.md
@@ -66,3 +67,4 @@ dev_sandbox-ml.ajc/
 └── scripts/
     ├── common_script.bat
     └── setup_common_env.bat
+```
